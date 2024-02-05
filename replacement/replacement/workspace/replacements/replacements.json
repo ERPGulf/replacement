@@ -1,0 +1,38 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"VDaq6EAnTr\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Replacements</span>\",\"col\":12}},{\"id\":\"VPEZ6aZFpB\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Replacement\",\"col\":3}}]",
+ "creation": "2024-02-05 21:29:17.691451",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "blue",
+ "is_hidden": 0,
+ "label": "Replacements",
+ "links": [],
+ "modified": "2024-02-05 21:35:09.032887",
+ "modified_by": "Administrator",
+ "module": "Replacement",
+ "name": "Replacements",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 6.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Replacement",
+   "link_to": "Replacement",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Replacements"
+}
