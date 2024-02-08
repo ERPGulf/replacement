@@ -228,8 +228,4 @@ app_license = "mit"
 # }
 
 
-doctype_js = {
-    "Replacement": "public/js/replace.js",
-    "Delivery Note": "public/js/need.js",  # Add the path to your custom JavaScript file
-}
 

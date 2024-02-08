@@ -1,0 +1,20 @@
+{
+ "content": null,
+ "creation": "2024-02-06 13:13:31.194374",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "search",
+ "idx": 0,
+ "modified": "2024-02-06 13:34:27.316852",
+ "modified_by": "Administrator",
+ "module": "Replacement",
+ "name": "search-replacement",
+ "owner": "Administrator",
+ "page_name": "search-replacement",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Search Replacement"
+}

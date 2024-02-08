@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"VDaq6EAnTr\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Replacements</span>\",\"col\":12}},{\"id\":\"VPEZ6aZFpB\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Replacement\",\"col\":3}}]",
+ "content": "[{\"id\":\"VDaq6EAnTr\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Replacements</span>\",\"col\":12}},{\"id\":\"l5vEGXrDPH\",\"type\":\"onboarding\",\"data\":{\"onboarding_name\":\"Replacement\",\"col\":12}},{\"id\":\"vpO4gqukiK\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Search Replacement\",\"col\":3}},{\"id\":\"VPEZ6aZFpB\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Replacement List\",\"col\":3}},{\"id\":\"OSm7pEFfPo\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Replacement \",\"col\":3}}]",
  "creation": "2024-02-05 21:29:17.691451",
  "custom_blocks": [],
  "docstatus": 0,
@@ -12,7 +12,7 @@
  "is_hidden": 0,
  "label": "Replacements",
  "links": [],
- "modified": "2024-02-05 21:35:09.032887",
+ "modified": "2024-02-06 15:04:19.775757",
  "modified_by": "Administrator",
  "module": "Replacement",
  "name": "Replacements",
@@ -28,7 +28,22 @@
   {
    "color": "Grey",
    "doc_view": "List",
-   "label": "Replacement",
+   "label": "Search Replacement",
+   "link_to": "search-replacement",
+   "type": "Page"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Replacement List",
+   "link_to": "Replacement",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "New Replacement ",
    "link_to": "Replacement",
    "stats_filter": "[]",
    "type": "DocType"
