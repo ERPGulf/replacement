@@ -13,10 +13,10 @@ def search_and_replace(item_code, all_replacements=None):
     for replacement in replacements:
         if replacement not in all_replacements:
             all_replacements.add(replacement)
-            # Recursive call to include replacements of replacements
+           
             search_and_replace(replacement, all_replacements)
 
-    # Construct the combined list excluding the original item code
+    
     combined_list = {replacement: frappe.get_value("Item", replacement, "item_name") for replacement in all_replacements if replacement != item_code}
 
     return {'combined_list': combined_list}
